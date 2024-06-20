@@ -1,0 +1,10 @@
+/1-get-image-ideas-javascript/package-lock.json
+/1-get-image-ideas-javascript/node_modules/
+/2-create-image-php/vendor/
+/2-create-image-php/composer.lock
+/3-analyze-image-csharp/bin/
+/3-analyze-image-csharp/obj/
+
+/.idea/
+/bedrock-demo-oleplus.iml
+
