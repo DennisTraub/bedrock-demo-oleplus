@@ -30,7 +30,7 @@ cd ../2-create-image-php
 php CreateImage.php
 ```
 
-This uses a prepared prompt. The image will be stored in ./image.png
+This uses a prepared prompt. The image will be stored in the project root as image.png
 
 **3. Analyze the image with Claude 3 using C#**
 ```shell
